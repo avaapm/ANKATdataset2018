@@ -16,4 +16,4 @@ If you use ANKAT in your research, please cite:
     	organization = "IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU)"
 		}
 
-Words for the categories are in the files named "X-Y.txt" where X is the name of the category in Turkish and Y is the number of the words in that category. 
+Category words are in the files named "X-Y.txt" where X is the name of the category in Turkish and Y is the number of the words in that category. 
